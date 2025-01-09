@@ -1,8 +1,8 @@
 #FOR LOOP -- Printing the character of the string.
 for name in "fahiza": 
     print(name)
-    
-#FOR LOOP -- Printing the numbers in range(begin, end+1, jump):    
+
+#FOR LOOP -- Printing the numbers in range(begin, end+1, jump of 10):    
 for name in range (0, 100, 10):
     print(name)
 
@@ -10,7 +10,7 @@ for name in range (0, 100, 10):
 for name in sorted({'1','2','3','4','5'}):
     print(name)
 
-#FOR LOOP -- Printing the numbers in range(begin, end+1, jump):    
+#FOR LOOP -- Printing the numbers in range(begin, end+1):    
 for i in range(1,101):
     print(i)
 
